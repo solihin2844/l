@@ -13,7 +13,7 @@ Color warnaPutih38 = Colors.white38;
 Color warnaPrimary = const Color(0xff3A7FD5);
 Color textWhiteGrey = const Color(0xfff1f1f5);
 Color colorLight = const Color(0xfffbfbfb);
-
+Color warnaMerah = Colors.red;
 //TEXT STYLE
 TextStyle text10Black = GoogleFonts.roboto(
   fontSize: 10,
